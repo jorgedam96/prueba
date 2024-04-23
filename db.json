@@ -1,0 +1,65 @@
+{
+    "brand": "hostinger",
+    "name": "Pompeyana ",
+    "currency": {
+        "code": "eur",
+        "symbol": "€",
+        "symbol_native": "€",
+        "name": "Euro",
+        "name_plural": "Euros",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "template": "€$1",
+        "min_amount": 100,
+        "max_amount": 5000000000,
+        "is_enabled": true
+    },
+    "company_details": {
+        "id": "owner_01HKTHJE7TKHR99FR4VXRYFF1F",
+        "store_id": "store_01HKTHJE7TVQP3Q7JEADHT4CEX",
+        "language": "ES",
+        "company_name": "Pompeyana",
+        "company_email": "pompeyanaciudadreal@gmail.com",
+        "company_address_id": "addr_01HKTHJE7T63GFEK7GNFQ28NC0",
+        "company_address": {
+            "id": "addr_01HKTHJE7T63GFEK7GNFQ28NC0",
+            "created_at": "2024-01-10T20:38:40.121Z",
+            "updated_at": "2024-01-15T13:01:36.402Z",
+            "deleted_at": null,
+            "company": null,
+            "name": null,
+            "address_1": null,
+            "address_2": null,
+            "city": null,
+            "country_code": "es",
+            "province_code": null,
+            "postal_code": null,
+            "phone": "676383946",
+            "metadata": null
+        },
+        "created_at": "2024-01-10T20:38:40.121Z",
+        "updated_at": "2024-01-13T19:50:11.803Z"
+    },
+    "country": "es",
+    "settings": {
+        "checkout_collect_phone": true,
+        "measurement_system": "metric",
+        "invoice_title": "Factura",
+        "invoice_next_number": 4,
+        "invoice_custom_fields": [],
+        "terms_and_conditions_url": "",
+        "privacy_policy_url": "",
+        "invoice_logo_url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01HKTHJE7TVQP3Q7JEADHT4CEX%2Fassets%2F1705323660915-logo%20horizontal.png",
+        "is_invoice_logo_shown": true,
+        "is_invoice_email_shown": true,
+        "is_invoice_phone_shown": true,
+        "tax_model": "included_in_product_price",
+        "invoice_last_number": 3
+    },
+    "status": {
+        "detailsFilled": true,
+        "hasProducts": true,
+        "salesChannelsEnabled": false,
+        "paymentsEnabled": true
+    }
+}
