@@ -1,0 +1,9 @@
+{
+    "currency": {
+        "symbol": "€",
+        "decimal_digits": 2,
+        "min_amount": 1,
+        "max_amount": 5000000000,
+        "is_enabled": true
+    }
+}
