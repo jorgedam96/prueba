@@ -1,13 +1,7 @@
 {
     "currency": {
-        "code": "eur",
         "symbol": "€",
-        "symbol_native": "€",
-        "name": "Euro",
-        "name_plural": "Euros",
         "decimal_digits": 2,
-        "rounding": 0,
-        "template": "€$1",
         "min_amount": 1,
         "max_amount": 5000000000,
         "is_enabled": true
